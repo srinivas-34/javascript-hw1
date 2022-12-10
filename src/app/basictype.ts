@@ -1,6 +1,8 @@
 let temp = "abc";
 console.log(temp);
 
+
+
 let temp1: string = "srinu";
 console.log(temp1);
 
